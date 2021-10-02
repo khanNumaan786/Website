@@ -1,0 +1,201 @@
+.body{
+    position: relative;
+width: 1280px;
+height: 720px;
+
+background: #FFFFFF;
+}
+
+.text{
+    position: absolute;
+width: 900px;
+height: 46px;
+left: 77px;
+top: 66px;
+color: #5373AE;
+;
+
+font-family: Impact;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 61px;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+}
+
+.column{
+    position: absolute;
+width: 696px;
+height: 534.26px;
+left: 292px;
+top: 164px;
+
+}
+
+.column-1{
+    position: absolute;
+left: 36.21%;
+right: 48.35%;
+top: 22.26%;
+bottom: 69.54%;
+}
+.column-1-1{
+    position: absolute;
+left: 38.4%;
+right: 50.54%;
+top: 31.54%;
+bottom: 64.68%;
+
+}
+.column-1-2{
+  
+position: absolute;
+left: 37.98%;
+right: 50.04%;
+top: 36.3%;
+bottom: 59.89%;
+}
+
+.column-2{
+    position: absolute;
+left: 61.98%;
+right: 22.58%;
+top: 22.22%;
+bottom: 69.58%;
+}
+.column-2-1{
+    position: absolute;
+left: 64.51%;
+right: 25.19%;
+top: 31.51%;
+bottom: 65.48%;
+
+}
+.column-2-2{
+    position: absolute;
+    left: 63.41%;
+    right: 23.95%;
+    top: 36.23%;
+    bottom: 60.72%;
+}
+
+.column-3{
+    position: absolute;
+left: 23.05%;
+right: 61.51%;
+top: 77.74%;
+bottom: 14.06%;
+}
+.column-3-1{
+    position: absolute;
+    left: 24.71%;
+    right: 63.08%;
+    top: 86.3%;
+    bottom: 9.92%;
+    
+}
+.column-3-2{
+    position: absolute;
+left: 24.51%;
+right: 62.99%;
+top: 91.02%;
+bottom: 5.16%;
+}
+
+.column-4{
+    position: absolute;
+left: 48.89%;
+right: 35.67%;
+top: 77.92%;
+bottom: 13.88%;
+
+}
+.column-4-1{
+    position: absolute;
+left: 50.67%;
+right: 37.36%;
+top: 86.29%;
+bottom: 9.89%;
+
+}
+.column-4-2{
+    position: absolute;
+    left: 51.21%;
+    right: 37.97%;
+    top: 91.04%;
+    bottom: 5.94%;
+
+}
+
+.vector1{
+    position: absolute;
+left: 23.85%;
+right: 50.19%;
+top: 48.86%;
+bottom: 29.3%;
+}
+
+.vector2{
+    
+position: absolute;
+left: 37.93%;
+right: 37.26%;
+top: 48.86%;
+bottom: 29.3%;
+}
+.vector3{
+    
+    position: absolute;
+    left: 50.91%;
+    right: 23.12%;
+    top: 48.86%;
+    bottom: 29.3%;
+}
+
+.vector1-1{
+    position: absolute;
+    left: 17.32%;
+    right: 66.66%;
+    top: 38.31%;
+    bottom: 35.73%; 
+}
+
+.Vector1-2{
+    position: absolute;
+    left: 16.76%;
+    right: 53.99%;
+    top: 41.89%;
+    bottom: 36.32%;
+}
+.Vector1-2-1{
+    position: absolute;
+    left: 20.76%;
+    right: 53.99%;
+    top: 50.89%;
+    bottom: 36.32%;
+}
+
+.Vector1-3{
+    position: absolute;
+    left: 15.76%;
+    right: 53.99%;
+    top: 37.89%;
+    bottom: 36.32%;
+}
+.Vector1-4{
+    position: absolute;
+    left: 62.76%;
+    right: 53.99%;
+    top: 37.89%;
+    bottom: 36.32%;
+    
+}
+
+.vector1-1-1{
+    position: absolute;
+    left: 24%;
+top: 59%;
+}
+

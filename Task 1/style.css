@@ -1,0 +1,232 @@
+.div1{
+    color : rgb(96, 160, 170);
+    position: absolute;
+   width: 700px;
+   height: 66px;
+   left: 66px;
+   top: 30px;
+    font-family: Impact;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 61px;
+    letter-spacing: 0.15em;
+}
+
+
+.div2-1{
+    position: absolute;
+    width: 192px;
+    height: 31px;
+    left: 158px;
+    top: 220px;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 31px;
+    color: 
+    rgba(58, 93, 165, 1);
+    }
+
+.div6{
+    position: absolute;
+    width: 506px;
+    height: 721px;
+    left: 1099px;
+    top: -1px;
+    }
+
+.div2-2{
+    position: absolute;
+width: 539px;
+height: 69px;
+left: 158px;
+top: 235px;
+
+font-family: Calibri;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+
+color: #646464;
+}
+
+.div3-1{
+    position: absolute;
+width: 247px;
+height: 31px;
+left: 158px;
+top: 350px;
+
+font-family: Calibri;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 31px;
+color: 
+rgba(58, 93, 165, 1);
+}
+
+.div3-2{
+    position: absolute;
+width: 514px;
+height: 46px;
+left: 158px;
+top: 360px;
+
+font-family: Calibri;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+/* or 128% */
+
+
+color: #646464;
+}
+
+.div4-1{
+    position: absolute;
+width: 62px;
+height: 31px;
+left: 158px;
+top: 450px;
+
+font-family: Calibri;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #3A5DA5;
+}
+
+.div4-2{
+    position: absolute;
+width: 517px;
+height: 69px;
+left: 158px;
+top: 462px;
+
+font-family: Calibri;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+}
+
+.div5-1{
+    position: absolute;
+width: 294px;
+height: 31px;
+left: 158px;
+top: 565px;
+
+font-family: Calibri;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #3A5DA5;
+}
+
+.div5-2{
+    position: absolute;
+width: 526px;
+height: 69px;
+left: 158px;
+top: 579px;
+
+font-family: Calibri;
+font-style: normal;
+font-weight: normal;
+}
+
+.div2-3{
+    position: absolute;
+width: 66px;
+height: 72px;
+left: 66px;
+top: 225px;
+
+background: linear-gradient(180deg, #5FBBC8 0%, #5373AE 100%);
+border-radius: 13px;
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
+
+.div2-3-1{
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 11px;
+    top: 15px;
+}
+
+.div3-3{
+    position: absolute;
+    width: 66px;
+    height: 72px;
+    left: 66px;
+    top: 355px;
+
+background: linear-gradient(180deg, #5FBBC8 0%, #5373AE 100%);
+border-radius: 13px;
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
+
+.div3-3-1{
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 11px;
+    top: 15px;
+}
+
+.div4-3{
+    position: absolute;
+    width: 66px;
+    height: 72px;
+    left: 66px;
+    top: 455px;
+
+background: linear-gradient(180deg, #5FBBC8 0%, #5373AE 100%);
+border-radius: 13px;
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
+
+.div4-3-1{
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 11px;
+    top: 15px;
+}
+
+.div5-3{
+    position: absolute;
+    width: 66px;
+    height: 72px;
+    left: 66px;
+    top: 570px;
+
+background: linear-gradient(180deg, #5FBBC8 0%, #5373AE 100%);
+border-radius: 13px;
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
+
+.div5-3-1{
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 11px;
+    top: 15px;
+}
+
+
